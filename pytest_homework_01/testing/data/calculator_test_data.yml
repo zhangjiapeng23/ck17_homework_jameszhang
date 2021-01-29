@@ -2,16 +2,74 @@ add:
   int:
     data:
       - [ 1, 2, 3 ]
+      - [128912, 23232323, 23361235]
       - [ -1, -9, -10 ]
+      - [-99999, -94888, -194887]
       - [ 0, 10, 10 ]
       - [ -10, 30, 20 ]
-    ids: ['positive integer', 'negative integer', 'zero', 'positive and negative integer']
+    ids: ['positive integer',
+          'big integer',
+          'negative integer',
+          'small integer',
+          'zero',
+          'positive and negative integer']
 
   float:
     data:
-      - [1.0, 2.0, 3.0]
-      - [-10.2, -1, -11.2]
-      - [0, 23.9, 23.9]
-      - [1.9, -2.0, -0.1]
-    ids: ['positive float', 'negative float', 'zero', 'positive and negative float']
+      - [1.00, 2.00, 3.00]
+      - [999999.99, 8888.88, 1008888.87]
+      - [-10.21, -1.11, -11.32]
+      - [-9999.99, -777.21, -10777.2]
+      - [0.00, 23.90, 23.90]
+      - [1.90, -2.02, -0.12]
+    ids: ['positive float',
+          'big float',
+          'negative float',
+          'small float',
+          'zero',
+          'positive and negative float']
+
+div:
+  int:
+    data:
+      - [ 1, 2, 0.5]
+      - [79121212, 98766, 801.10]
+      - [ -1, -9, 0.11]
+      - [-9998899, -9111, 1097.45]
+      - [ 0, 10, 0.0]
+      - [ -10, 30, -0.33]
+    ids: ['positive integer',
+          'big integer',
+          'negative integer',
+          'small integer',
+          'zero',
+          'positive and negative integer']
+
+  float:
+    data:
+      - [1.11, 2.22, 0.5]
+      - [99999.89, 121212.21, 0.82]
+      - [-10.28, -1.72, 5.98]
+      - [-89789.23, -4656.98, 19.28]
+      - [0.00, 23.91, 0.0]
+      - [1.01, -2.23, -0.45]
+    ids: ['positive float',
+          'big float',
+          'negative float',
+          'small float',
+          'zero',
+          'positive and negative float']
+
+  divisor_zero:
+    data:
+      - [23, 0.00, 'error']
+      - [-34, 0, 'error']
+      - [0, 0, 'error']
+      - [23.98, 0, 'error']
+      - [-23.86, 0.00, 'error']
+    ids: ['positive int dividend',
+          'negative int dividend',
+          'zero dividend',
+          'positive float dividend',
+          'negative float dividend']
 
