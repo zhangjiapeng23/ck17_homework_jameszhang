@@ -1,7 +1,7 @@
 add:
   int:
     data:
-      - [ 1, 2, 3 ]
+      - [ 1, 2, 4]
       - [128912, 23232323, 23361235]
       - [ -1, -9, -10 ]
       - [-99999, -94888, -194887]
@@ -69,7 +69,7 @@ div:
       - [-23.86, 0.00, 'error']
     ids: ['positive int dividend',
           'negative int dividend',
-          'zero dividend',
+          '被除数为0',
           'positive float dividend',
           'negative float dividend']
 
