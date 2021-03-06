@@ -28,6 +28,7 @@ class AddressBookPage:
         self.__address_input_field().send_keys(test_data['address'])
         self.__title_input_field().send_keys(test_data['title'])
         self.__save_buttons()[random.randint(0, 1)].click()
+        return self
 
     def __add_member_button_header(self):
         element_locator = (By.XPATH, '//*[@class="ww_operationBar"]//*[@class="qui_btn ww_btn js_add_member"]')
