@@ -2,9 +2,9 @@
 # -*- encoding: utf-8 -*-
 # @author: James Zhang
 # @data  : 2021/3/6
+import time
 
 from appium import webdriver
-from appium.webdriver.common.mobileby import MobileBy
 
 from appium_po_homework_02.page.base_page import BasePage
 from appium_po_homework_02.page.main_page import MainPage
