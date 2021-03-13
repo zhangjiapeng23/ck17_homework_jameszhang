@@ -27,9 +27,8 @@ class TestAddressBook:
         logger.info('test start.')
         self.app.launch()
 
-    def teardown_metos(self):
+    def teardown_method(self):
         logger.info('test end.')
-        self.app.close()
 
     @pytest.mark.parametrize('name', [('james',), ('zhang',)])
     def test_add_member(self, name):

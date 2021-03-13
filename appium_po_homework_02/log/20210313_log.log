@@ -1,0 +1,88 @@
+2021-03-13 18:23:29 [Appium] INFO: ====================18:23:29====================
+2021-03-13 18:23:29 [Appium] DEBUG: init driver
+2021-03-13 18:23:29 [Appium] INFO: test start.
+2021-03-13 18:23:44 [Appium] INFO: Testcase add member ---->
+2021-03-13 18:23:44 [Appium] DEBUG: find element //*[@text="通讯录"]
+2021-03-13 18:23:45 [Appium] DEBUG: find elements //*[@text="添加成员"]
+2021-03-13 18:23:48 [Appium] INFO: scroll up page
+2021-03-13 18:23:48 [Appium] DEBUG: find elements //*[@text="添加成员"]
+2021-03-13 18:23:49 [Appium] DEBUG: find element //*[@text="手动输入添加"]
+2021-03-13 18:23:50 [Appium] DEBUG: find element //*[contains(@text,"姓名")]/../*[@text="必填"]
+2021-03-13 18:23:52 [Appium] DEBUG: find element //*[contains(@text,"手机")]/..//*[@text="必填"]
+2021-03-13 18:23:52 [Appium] DEBUG: find element //*[@text="保存后自动发送邀请通知"]
+2021-03-13 18:23:53 [Appium] DEBUG: find element //*[@text="保存"]
+2021-03-13 18:23:54 [Appium] INFO: find '添加成功' toast
+2021-03-13 18:23:54 [Appium] DEBUG: find element //*[@text="添加成功"]
+2021-03-13 18:23:55 [Appium] INFO: test start.
+2021-03-13 18:23:58 [Appium] INFO: Testcase add member ---->
+2021-03-13 18:23:58 [Appium] DEBUG: find element //*[@text="通讯录"]
+2021-03-13 18:23:59 [Appium] DEBUG: find elements //*[@text="添加成员"]
+2021-03-13 18:24:03 [Appium] INFO: scroll up page
+2021-03-13 18:24:03 [Appium] DEBUG: find elements //*[@text="添加成员"]
+2021-03-13 18:24:04 [Appium] DEBUG: find element //*[@text="手动输入添加"]
+2021-03-13 18:24:05 [Appium] DEBUG: find element //*[contains(@text,"姓名")]/../*[@text="必填"]
+2021-03-13 18:24:07 [Appium] DEBUG: find element //*[contains(@text,"手机")]/..//*[@text="必填"]
+2021-03-13 18:24:08 [Appium] DEBUG: find element //*[@text="保存后自动发送邀请通知"]
+2021-03-13 18:24:08 [Appium] DEBUG: find element //*[@text="保存"]
+2021-03-13 18:24:09 [Appium] INFO: find '添加成功' toast
+2021-03-13 18:24:09 [Appium] DEBUG: find element //*[@text="添加成功"]
+2021-03-13 18:24:10 [Appium] INFO: test start.
+2021-03-13 18:24:13 [Appium] INFO: Testcase remove member from search page ---->
+2021-03-13 18:24:13 [Appium] DEBUG: find element //*[@text="通讯录"]
+2021-03-13 18:24:14 [Appium] DEBUG: find element //*[@resource-id="com.tencent.wework:id/igk"]
+2021-03-13 18:24:15 [Appium] DEBUG: find element //*[@text="搜索"]
+2021-03-13 18:24:17 [Appium] DEBUG: find elements //*[@resource-id="com.tencent.wework:id/dil"]
+2021-03-13 18:24:18 [Appium] DEBUG: find elements //*[@resource-id="com.tencent.wework:id/dil"]
+2021-03-13 18:24:19 [Appium] DEBUG: find element //*[@resource-id="com.tencent.wework:id/iga"]
+2021-03-13 18:24:20 [Appium] DEBUG: find element //*[@text="编辑成员"]
+2021-03-13 18:24:22 [Appium] DEBUG: find elements //*[@text="删除成员"]
+2021-03-13 18:24:25 [Appium] INFO: scroll up page
+2021-03-13 18:24:25 [Appium] DEBUG: find elements //*[@text="删除成员"]
+2021-03-13 18:24:25 [Appium] DEBUG: find element //*[@text="确定"]
+2021-03-13 18:24:31 [Appium] DEBUG: find elements //*[@resource-id="com.tencent.wework:id/dil"]
+2021-03-13 18:24:31 [Appium] INFO: test start.
+2021-03-13 18:24:33 [Appium] INFO: Testcase remove member from search page ---->
+2021-03-13 18:24:33 [Appium] DEBUG: find element //*[@text="通讯录"]
+2021-03-13 18:24:34 [Appium] DEBUG: find element //*[@resource-id="com.tencent.wework:id/igk"]
+2021-03-13 18:24:36 [Appium] DEBUG: find element //*[@text="搜索"]
+2021-03-13 18:24:37 [Appium] DEBUG: find elements //*[@resource-id="com.tencent.wework:id/dil"]
+2021-03-13 18:24:39 [Appium] DEBUG: find elements //*[@resource-id="com.tencent.wework:id/dil"]
+2021-03-13 18:24:39 [Appium] DEBUG: find element //*[@resource-id="com.tencent.wework:id/iga"]
+2021-03-13 18:24:41 [Appium] DEBUG: find element //*[@text="编辑成员"]
+2021-03-13 18:24:42 [Appium] DEBUG: find elements //*[@text="删除成员"]
+2021-03-13 18:24:45 [Appium] INFO: scroll up page
+2021-03-13 18:24:45 [Appium] DEBUG: find elements //*[@text="删除成员"]
+2021-03-13 18:24:46 [Appium] DEBUG: find element //*[@text="确定"]
+2021-03-13 18:24:51 [Appium] DEBUG: find elements //*[@resource-id="com.tencent.wework:id/dil"]
+2021-03-13 18:24:52 [Appium] DEBUG: quit driver
+2021-03-13 18:25:10 [Appium] INFO: ====================18:25:10====================
+2021-03-13 18:25:10 [Appium] DEBUG: init driver
+2021-03-13 18:25:10 [Appium] INFO: test start.
+2021-03-13 18:25:22 [Appium] INFO: Testcase add member ---->
+2021-03-13 18:25:22 [Appium] DEBUG: find element //*[@text="通讯录"]
+2021-03-13 18:25:23 [Appium] DEBUG: find elements //*[@text="添加成员"]
+2021-03-13 18:25:27 [Appium] INFO: scroll up page
+2021-03-13 18:25:27 [Appium] DEBUG: find elements //*[@text="添加成员"]
+2021-03-13 18:25:28 [Appium] DEBUG: find element //*[@text="手动输入添加"]
+2021-03-13 18:25:29 [Appium] DEBUG: find element //*[contains(@text,"姓名")]/../*[@text="必填"]
+2021-03-13 18:25:31 [Appium] DEBUG: find element //*[contains(@text,"手机")]/..//*[@text="必填"]
+2021-03-13 18:25:31 [Appium] DEBUG: find element //*[@text="保存后自动发送邀请通知"]
+2021-03-13 18:25:32 [Appium] DEBUG: find element //*[@text="保存"]
+2021-03-13 18:25:33 [Appium] INFO: find '添加成功' toast
+2021-03-13 18:25:33 [Appium] DEBUG: find element //*[@text="添加成功"]
+2021-03-13 18:25:34 [Appium] INFO: test end.
+2021-03-13 18:25:34 [Appium] INFO: test start.
+2021-03-13 18:25:36 [Appium] INFO: Testcase add member ---->
+2021-03-13 18:25:36 [Appium] DEBUG: find element //*[@text="通讯录"]
+2021-03-13 18:25:38 [Appium] DEBUG: find elements //*[@text="添加成员"]
+2021-03-13 18:25:41 [Appium] INFO: scroll up page
+2021-03-13 18:25:41 [Appium] DEBUG: find elements //*[@text="添加成员"]
+2021-03-13 18:25:41 [Appium] DEBUG: find element //*[@text="手动输入添加"]
+2021-03-13 18:25:43 [Appium] DEBUG: find element //*[contains(@text,"姓名")]/../*[@text="必填"]
+2021-03-13 18:25:44 [Appium] DEBUG: find element //*[contains(@text,"手机")]/..//*[@text="必填"]
+2021-03-13 18:25:45 [Appium] DEBUG: find element //*[@text="保存后自动发送邀请通知"]
+2021-03-13 18:25:46 [Appium] DEBUG: find element //*[@text="保存"]
+2021-03-13 18:25:46 [Appium] INFO: find '添加成功' toast
+2021-03-13 18:25:46 [Appium] DEBUG: find element //*[@text="添加成功"]
+2021-03-13 18:25:47 [Appium] INFO: test end.
+2021-03-13 18:25:47 [Appium] DEBUG: quit driver
