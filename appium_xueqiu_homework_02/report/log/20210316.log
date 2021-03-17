@@ -1,0 +1,515 @@
+2021-03-16 00:02:52 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 00:02:52 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:03:04 [Appium] INFO conftest.record: Start record video.
+2021-03-16 00:03:04 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 00:03:12 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 00:03:16 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:03:24 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:03:26 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:03:26 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:03:30 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 00:09:57 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 00:09:57 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:10:10 [Appium] INFO conftest.record: Start record video.
+2021-03-16 00:10:10 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 00:10:21 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 00:10:24 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:10:32 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:10:33 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:10:33 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:10:35 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 00:10:36 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 00:17:08 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 00:17:08 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:17:22 [Appium] INFO conftest.record: Start record video.
+2021-03-16 00:17:22 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 00:17:34 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 00:17:35 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:17:44 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:17:45 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:17:45 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:17:47 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 00:19:18 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 00:19:18 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:19:32 [Appium] INFO conftest.record: Start record video.
+2021-03-16 00:19:32 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 00:19:44 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 00:19:46 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:19:54 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:19:56 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:19:56 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:19:57 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 00:19:57 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 00:22:05 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 00:22:05 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:22:19 [Appium] INFO conftest.record: Start record video.
+2021-03-16 00:22:19 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 00:22:31 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 00:22:32 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:22:41 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:22:43 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:22:43 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:22:44 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 00:22:44 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:22:45 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 00:24:49 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 00:24:49 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:25:03 [Appium] INFO conftest.record: Start record video.
+2021-03-16 00:25:03 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 00:25:15 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 00:25:18 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:25:26 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:25:27 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:25:28 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:25:29 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 00:25:29 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:25:29 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:25:35 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 00:25:41 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:25:46 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:25:49 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 00:25:50 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 00:25:51 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 00:25:51 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:25:51 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:25:56 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 00:26:08 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 00:26:15 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 00:26:20 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:26:20 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:26:26 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 00:26:32 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:26:36 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:26:39 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 00:26:41 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 00:26:42 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 00:26:42 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:26:42 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 00:38:35 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 00:38:35 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:38:54 [Appium] INFO conftest.record: Start record video.
+2021-03-16 00:38:54 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 00:39:06 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 00:39:08 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:39:16 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:39:17 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:39:18 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:39:19 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 00:39:19 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:39:19 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:39:25 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 00:39:39 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 00:39:44 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 00:39:49 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:39:49 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:39:55 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 00:40:07 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 00:40:13 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 00:40:17 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:40:17 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:40:23 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 00:40:34 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 00:40:41 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 00:40:45 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:40:45 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 00:40:53 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 00:40:53 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:41:13 [Appium] INFO conftest.record: Start record video.
+2021-03-16 00:41:13 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 00:41:26 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 00:41:27 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:41:36 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:41:37 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:41:37 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:41:39 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 00:41:39 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:41:39 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:41:46 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 00:41:52 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:41:56 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:41:58 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 00:41:59 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 00:42:00 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 00:42:00 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:42:00 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:42:06 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 00:42:18 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 00:42:24 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 00:42:27 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:42:27 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:42:33 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 00:42:40 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:42:45 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:42:46 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 00:42:47 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 00:42:48 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 00:42:48 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:42:50 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 00:59:03 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 00:59:03 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:59:20 [Appium] INFO conftest.record: Start record video.
+2021-03-16 00:59:20 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 00:59:32 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 00:59:34 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:59:42 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 00:59:43 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 00:59:44 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 00:59:46 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 00:59:46 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 00:59:46 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 00:59:52 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 01:00:02 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 01:00:08 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 01:00:11 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 01:00:11 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 01:00:16 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 01:00:23 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 01:00:27 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 01:00:29 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 01:00:30 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 01:00:31 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 01:00:31 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 01:00:31 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 01:00:40 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 01:00:51 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 01:00:58 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 01:01:01 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 01:01:03 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 01:05:42 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 01:05:42 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 01:05:59 [Appium] INFO conftest.record: Start record video.
+2021-03-16 01:05:59 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 01:06:08 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 01:06:10 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 01:06:18 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 01:06:20 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 01:06:20 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 01:06:22 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 01:06:22 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 01:06:23 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 01:07:06 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 01:07:06 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 01:07:22 [Appium] INFO conftest.record: Start record video.
+2021-03-16 01:07:22 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 01:07:34 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 01:07:35 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 01:07:44 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 01:07:45 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 01:07:45 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 01:07:46 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 01:07:46 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 01:07:47 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 01:10:39 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 01:10:39 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 01:10:54 [Appium] INFO conftest.record: Start record video.
+2021-03-16 01:10:54 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 01:11:06 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 01:11:08 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 01:11:16 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 01:11:18 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 01:11:18 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 01:11:20 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 01:11:20 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 01:11:21 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 01:11:43 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 01:11:43 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 01:12:02 [Appium] INFO conftest.record: Start record video.
+2021-03-16 01:12:02 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 01:12:13 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 01:12:15 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 01:12:24 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 01:12:25 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 01:12:25 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 01:12:26 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 01:12:26 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 01:12:26 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 01:12:32 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 01:12:39 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 01:12:43 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 01:12:45 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 01:12:47 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 01:12:48 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 01:12:48 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 01:12:48 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 01:12:54 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 01:13:00 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 01:13:05 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 01:13:06 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 01:13:07 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 01:13:09 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 01:13:09 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 01:13:09 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 01:13:17 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 01:13:25 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 01:13:30 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 01:13:32 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 01:13:34 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 01:13:35 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 01:13:35 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 01:13:37 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 20:23:17 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 20:23:17 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 20:23:35 [Appium] INFO conftest.record: Start record video.
+2021-03-16 20:23:35 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 20:23:42 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 20:23:44 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 20:23:53 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 20:23:54 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 20:23:54 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 20:23:57 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 20:23:59 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 20:23:59 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 20:24:05 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 20:24:15 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 20:24:21 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 20:24:24 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 20:24:24 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 20:24:29 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 20:24:41 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 20:24:47 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 20:24:50 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 20:24:50 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 20:24:57 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 20:25:05 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 20:25:09 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 20:25:10 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 20:25:11 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 21:20:12 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:20:12 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:20:12 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:20:12 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:20:12 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:21:21 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:21:21 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:21:21 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:21:21 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:21:21 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:21:51 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:21:51 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:21:51 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:21:51 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:21:51 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:22:07 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:22:07 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:22:07 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:22:07 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:22:07 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:22:38 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:22:38 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:22:38 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:22:38 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:22:38 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:23:20 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:23:20 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:23:20 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:23:20 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:23:20 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:24:00 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:24:00 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:24:00 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:24:00 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:24:00 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:25:13 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:25:13 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:25:13 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:25:13 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:25:13 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:27:24 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:27:24 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:27:39 [Appium] INFO conftest.record: Start record video.
+2021-03-16 21:27:40 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 21:27:42 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:27:42 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:27:45 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:27:45 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:27:49 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:27:49 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:27:54 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:27:55 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 21:30:06 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:30:06 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:30:23 [Appium] INFO conftest.record: Start record video.
+2021-03-16 21:30:23 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 21:30:25 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:30:25 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:30:31 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:30:31 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:30:36 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:30:36 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:30:42 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:30:43 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 21:32:09 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:32:09 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:32:24 [Appium] INFO conftest.record: Start record video.
+2021-03-16 21:32:24 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 21:32:37 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 21:32:39 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 21:32:46 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 21:32:48 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 21:32:48 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 21:32:49 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 21:32:51 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:32:51 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:32:57 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:33:03 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 21:33:08 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 21:33:09 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 21:33:11 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 21:33:12 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 21:33:12 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:33:12 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:33:18 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:33:25 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 21:33:28 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 21:33:30 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 21:33:32 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 21:33:33 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 21:33:33 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:33:33 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:33:40 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:33:46 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 21:33:50 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 21:33:52 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 21:33:54 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 21:33:55 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 21:33:55 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:33:56 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 21:37:40 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:37:40 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:37:56 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:38:06 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 21:38:14 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:38:14 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:38:20 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:38:31 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 21:38:38 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:38:38 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:38:44 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:38:56 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 21:39:03 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:39:05 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 21:39:30 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:39:30 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:39:49 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:39:56 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 21:40:03 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 21:40:04 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 21:40:05 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 21:40:06 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 21:40:06 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:40:06 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:40:12 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:40:18 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 21:40:23 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 21:40:25 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 21:40:27 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 21:40:28 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 21:40:28 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:40:28 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:40:34 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:40:40 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 21:40:44 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 21:40:45 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/image_cancel"]
+2021-03-16 21:40:46 [Appium] INFO base_page.screenshot: Get screenshot.
+2021-03-16 21:40:47 [Appium] ERROR blacklist_handler.wrap: Element find failed: Message: An element could not be located on the page using the given search parameters.
+
+2021-03-16 21:40:47 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:40:48 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 21:50:16 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:50:16 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:50:33 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:50:44 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 21:50:51 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 21:50:54 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:50:54 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:51:00 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:51:12 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 21:51:18 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 21:51:21 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:51:21 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:51:28 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:51:40 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 21:51:49 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 21:51:51 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:51:53 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 21:59:17 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 21:59:17 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:59:33 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 21:59:45 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 21:59:51 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 21:59:53 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 21:59:53 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 21:59:59 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 22:00:10 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 22:00:17 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 22:00:19 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 22:00:19 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 22:00:25 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 22:00:37 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 22:00:44 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 22:00:46 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 22:00:48 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 22:01:01 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 22:01:01 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 22:01:21 [Appium] INFO conftest.record: Start record video.
+2021-03-16 22:01:21 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 22:01:31 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 22:01:33 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 22:01:49 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 22:01:51 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 22:01:51 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 22:01:57 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 22:02:15 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 22:02:24 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 22:02:27 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 22:02:27 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 22:02:33 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 22:02:49 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 22:02:57 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 22:02:59 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 22:02:59 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 22:03:06 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 22:03:19 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 22:03:26 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 22:03:29 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 22:03:31 [Appium] INFO conftest.init_app: Quit app test.
+2021-03-16 22:06:17 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-16 22:06:17 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 22:06:33 [Appium] INFO conftest.record: Start record video.
+2021-03-16 22:06:33 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-16 22:06:45 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-16 22:06:47 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 22:07:02 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-16 22:07:04 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-16 22:07:04 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-16 22:07:05 [Appium] INFO conftest.record: Video record completed.
+2021-03-16 22:07:07 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 22:07:07 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 22:07:13 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 22:07:26 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 22:07:33 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 22:07:35 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 22:07:35 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 22:07:42 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 22:07:56 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 22:08:04 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 22:08:08 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 22:08:08 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-16 22:08:14 [Appium] INFO base_page.find: Find element //*[@text="行情"]
+2021-03-16 22:08:29 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/action_search"]
+2021-03-16 22:08:37 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/search_input_text"]
+2021-03-16 22:08:40 [Appium] INFO conftest.case_setup: Test case end.
+2021-03-16 22:08:42 [Appium] INFO conftest.init_app: Quit app test.

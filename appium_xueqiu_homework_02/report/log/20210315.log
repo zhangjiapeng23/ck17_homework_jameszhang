@@ -1,0 +1,18 @@
+2021-03-15 23:50:56 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-15 23:50:56 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-15 23:50:56 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-15 23:50:57 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-15 23:50:57 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-15 23:52:49 [Appium] INFO conftest.init_log: Completed init logger config.
+2021-03-15 23:52:49 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-15 23:53:05 [Appium] INFO conftest.record: Start record video.
+2021-03-15 23:53:06 [Appium] INFO base_page.find: Find element //*[@text="雪球"]
+2021-03-15 23:53:16 [Appium] INFO base_page.find: Find element //*[@resource-id="com.xueqiu.android:id/post_status"]
+2021-03-15 23:53:23 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-15 23:53:32 [Appium] INFO base_page.finds: Find element //*[@text="test_not_find"]
+2021-03-15 23:53:33 [Appium] INFO base_page.finds: Find element //*[@resource-id="com.xueqiu.android:id/iv_close"]
+2021-03-15 23:53:33 [Appium] INFO base_page.find: Find element //*[@text="交易"]
+2021-03-15 23:53:35 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-15 23:53:41 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-15 23:53:48 [Appium] INFO conftest.case_setup: Test case start.
+2021-03-15 23:53:55 [Appium] INFO conftest.init_app: Quit app test.

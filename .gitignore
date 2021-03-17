@@ -3,5 +3,5 @@
 *_cache/
 *.pyc
 result/
-*/allure/*
-*/video/*
+*allure/
+*.mp4
