@@ -1,0 +1,4 @@
+enter_edit:
+  - action: find_and_click
+    locator: xpath
+    value: //*[@resource-id="com.xueqiu.android:id/post_status"]

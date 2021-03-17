@@ -1,0 +1,14 @@
+enter_xueqiu_tab:
+  - action: find_and_click
+    locator: xpath
+    value: //*[@text="雪球"]
+
+enter_trading_tab:
+  - action: find_and_click
+    locator: xpath
+    value: //*[@text="交易"]
+
+enter_market_tab:
+  - action: find_and_click
+    locator: xpath
+    value: //*[@text="行情"]

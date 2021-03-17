@@ -1,0 +1,14 @@
+desired_capabilities:
+  platformName: "Android"
+  deviceName: "android phone"
+  appPackage: "com.xueqiu.android"
+  appActivity: "com.xueqiu.android.view.WelcomeActivityAlias"
+  noReset: true
+  settings[waitForIdleTimeout]: 3
+  unicodeKeyboard: true
+  resetKeyboard: true
+
+appium_server:
+  ip: "127.0.0.1"
+  port: 4723
+

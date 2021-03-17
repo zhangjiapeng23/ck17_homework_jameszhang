@@ -3,7 +3,7 @@
 # @author: James Zhang
 # @data  : 2021/3/13
 
-from appium_xueqiu_homework_01.page.base_page import BasePage
+from appium_xueqiu_homework_02.utils.base_page import BasePage
 
 
 class TradingTabPage(BasePage):
